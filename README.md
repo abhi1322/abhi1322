@@ -9,7 +9,7 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 
-<img src="https://i.pinimg.com/originals/c6/77/ea/c677eafcd7c9c8778da398e40ac3c1e6.gif" style="height:150px; width:150px" align="right" />
+<img src="https://i.pinimg.com/originals/c6/77/ea/c677eafcd7c9c8778da398e40ac3c1e6.gif" style="height:20%; width:20%" align="right" />
 
 - 🔭 I’m currently working on **Music Player**
 
