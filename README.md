@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Hi There👋, I'm Abhishek kumar</h1>
-<h3 align="center">A passionate React and React Native developer from India</h3>
+<h3 align="center">A passionate in Data Science from India</h3>
 
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
@@ -13,13 +13,13 @@
 
 - 🔭 I’m currently working on **Music Player**
 
-- 🌱 I’m currently learning **C++(Advance), Mern stack**
+- 🌱 I’m currently learning **Python , Data Analysis, ML **
 
-- 👯 I’m looking to collaborate on **React Native**
+- 👯 I’m looking to collaborate on **Data Science**
 
-- 🤝 I’m looking for help with **MERN Stack**
+- 🤝 I’m looking for help with **DSA in python**
 
-- 💬 Ask me about **react,html,sass**
+- 💬 Ask me about **Python**
 
 - 📫 How to reach me **abhi1322jii@gmail.com**
 
