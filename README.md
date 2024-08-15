@@ -1,7 +1,9 @@
-<div style="padding: 0 80px;">
   <p align="center">
-  <img src="[https://i.pinimg.com/originals/1d/76/bf/1d76bf40a1177b286781c432ff197759.gif](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif" style="width: 100%; height: 200px; object-fit:cover ;" alt="Profile Banner" />
+  <img src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif" style="width: 100%; height: 200px; object-fit:cover ;" alt="Profile Banner" />
 </p>
+
+<div style="padding: 0 80px;">
+
 <h1 align="center" style="padding-top:40px;">Hi there, I'm Abhishek Kumar 👋</h1>
 
 
